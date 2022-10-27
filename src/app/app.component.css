@@ -1,0 +1,82 @@
+.heading {
+  border: 3px solid rgb(233, 196, 196);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  text-align: center;
+}
+.header-1 {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.header-item {
+  text-decoration: none;
+}
+.header-item:hover {
+  color: rgb(181, 163, 187);
+}
+.form {
+  margin: 10px;
+}
+.form-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.form-label {
+  margin: 10px 0;
+  font-size: 20px;
+}
+
+.form-control {
+  height: 45px;
+  border-radius: 5px;
+  border: 1px solid rgb(194, 182, 182);
+}
+.btn-forget {
+  margin: 10px 0;
+  text-decoration: none;
+}
+.btn-forget:hover {
+  color: rgb(194, 120, 216);
+}
+
+.clickDN {
+  margin-top: 30px;
+  height: 45px;
+  border-radius: 25px;
+  font-size: 17px;
+  color: aliceblue;
+  background-color: #785ea8;
+  border: none;
+  cursor: pointer;
+}
+.clickDN:hover {
+  background-color: rgb(199, 155, 224);
+}
+.option {
+  text-align: center;
+}
+.icon {
+  display: flex;
+  justify-content: space-around;
+}
+.chung {
+  text-decoration: none;
+  text-align: center;
+  width: 150px;
+  height: 30px;
+  border-radius: 30px;
+  padding-top: 10px;
+}
+.icon-itemF {
+  background-color: rgb(13, 161, 219);
+  color: aliceblue;
+}
+.icon-itemG {
+  background-color: rgb(165, 189, 58);
+  color: rgb(241, 69, 26);
+}
